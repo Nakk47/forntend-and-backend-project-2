@@ -29,9 +29,9 @@ p, h1 {
 }
 
 #circle {
-    width: 220px;
-    height: 220px;
-    border-radius: 110px;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
     margin: 100px auto;
     background-image: linear-gradient(hsla(256, 72%, 46%, 1) 15%, hsla(241, 72%, 46%, 0));
 }
@@ -45,6 +45,22 @@ p, h1 {
 
 #description {
     margin: auto;
+    text-align: center;
+    color: hsl(241, 100%, 89%);
+    font-size: 18px;
+    font-style: bold;
+}
+
+#description2 {
+    font-size: 35px;
+    position: relative;
+    top: 20px;
+    text-align: center;
+    color: white;    
+}
+
+#description3 {
+    margin: 0 auto;
     text-align: center;
     color: hsl(241, 100%, 89%);
     font-size: 18px;
