@@ -59,10 +59,11 @@ p, h1 {
     color: white;    
 }
 
-#description3 {
-    margin: 0 auto;
+#description3{
+    margin: 370px auto;
     text-align: center;
     color: hsl(241, 100%, 89%);
-    font-size: 18px;
+    font-size: 15px;
     font-style: bold;
+    position: absolute;
 }
